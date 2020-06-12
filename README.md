@@ -52,6 +52,7 @@ chmod -R 0770 /usr/local/goip2locate
 ### 使用
 查询自己的IP归属地信息
 > http://你的域名|IP:端口号/me
+
 查询目标IP地址的归属地信息
 > http://你的域名|IP:端口号/?ip=需要检测归属地的IP地址
 
