@@ -40,7 +40,7 @@ sudo apt-get install golang-go
 5. 添加计划任务定期更新Ip库
 6. 完装结束结束
 ```
-wget https://github.com/GenjiLuo/GoIp2Locate
+wget https://github.com/GenjiLuo/GoIp2Locate/blob/master/goip2locate.zip
 useradd goip2locate -s /sbin/nologin
 unzip 
 mkdir -p /usr/local/goip2locate
